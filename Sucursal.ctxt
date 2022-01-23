@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sucursal
+comment1.params=nombre\ precioProducto
+comment1.target=Sucursal(java.lang.String,\ int)
+comment2.params=trabajador
+comment2.target=void\ agregarTrabajador(Trabajador)
+comment3.params=
+comment3.target=int\ calcularGananciaSucursal()
+comment4.params=
+comment4.target=int\ calcularGastosSucursal()
+comment5.params=
+comment5.target=void\ visualizar()
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=nombre\ capital
+comment1.target=Empresa(java.lang.String,\ int)
+comment2.params=sucursal
+comment2.target=void\ agregarSucursal(Sucursal)
+comment3.params=trabajador\ idSucursal
+comment3.target=void\ agregarTrabajador(Trabajador,\ int)
+comment4.params=
+comment4.target=int\ calcularGananciaEmpresa()
+comment5.params=
+comment5.target=int\ calcularGastosEmpresa()
+comment6.params=
+comment6.target=void\ verificarEstadoEmpresa\u0000()
+comment7.params=
+comment7.target=void\ capitalFinMes()
+comment8.params=
+comment8.target=void\ visualizar()
+numComments=9

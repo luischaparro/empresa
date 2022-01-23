@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trabajador
+comment1.params=nombre\ edad\ salario
+comment1.target=Trabajador(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getSalario()
+comment3.params=
+comment3.target=int\ getProduccionMensual()
+comment4.params=
+comment4.target=void\ visualizar()
+numComments=5
