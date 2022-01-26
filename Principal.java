@@ -7,14 +7,13 @@ public class Principal
         int opcion;
         String nombreEmp;
         System.out.println("Ingrese el nombre de la empresa ");
-        nombreEmp = entrada.next();
+        nombreEmp = entrada.nextLine();
         System.out.println("Ingrese el capital inicial de la empresa ");
         Empresa emp = new Empresa(nombreEmp, entrada.nextInt());
         do {
             menu_1();
             opcion = entrada.nextInt();
             verificarMenu_1(opcion, emp);
-
         } while(opcion != 0);
         System.out.println("------------Fin Del Programa-------------");
     }
